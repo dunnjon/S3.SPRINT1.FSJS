@@ -1,0 +1,7 @@
+{
+  "name": "Team 1 - App config",
+  "version": "1.0.0",
+  "description": "Command Line Interface of Sprint#1 by Team#1",
+  "main": "app.js",
+  "superuser": "admin"
+}

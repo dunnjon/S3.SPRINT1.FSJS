@@ -1,0 +1,19 @@
+{
+  "name": "sprint1",
+  "version": "1.0.0",
+  "description": "\"Command Line Interface of Sprint#1 by Team#1\"",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "team1",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^4.1.0",
+    "crc-32": "^1.2.1",
+    "events": "^3.3.0",
+    "js-sorted-set": "^0.7.0",
+    "prompt-sync": "^4.2.0",
+    "sorted-set": "^0.3.0"
+  }
+}
